@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/awesomerc.git]
+checkout = vcsh clone git@github.com:2phost/awesomerc.git awesome
